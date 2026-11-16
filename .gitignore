@@ -1,0 +1,22 @@
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Database backups
+*.sql
+*.sql.zip
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
